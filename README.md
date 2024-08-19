@@ -12,7 +12,7 @@ I am a dedicated and versatile software developer with over four years of profes
 * 🚀  I'm currently working on [Myself](http://https://github.com/nishantsing)
 * 🧠  I'm learning Next
 * 🤝  I'm open to collaborating on Projects
-* ⚡  I am Xarvis(Indian version!!!), how wants to know it all and interested in creating things.
+* ⚡  I am Xarvis(Indian version!!!), who wants to know it all and interested in creating things.
 
 ### Skills
 
