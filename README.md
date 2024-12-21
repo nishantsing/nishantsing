@@ -8,6 +8,7 @@ I am a dedicated and versatile software developer with over four years of profes
 
 * 🌍  I'm based in Pune, India
 * 🖥️  See my portfolio at [MyPortfolio](http://nishantsing.github.io/portfolio/)
+* Figma Design [MyPortfolio](https://www.figma.com/design/3qODATqyZOuVHfHBLYuW3K/Starting?node-id=2-2&t=UyDYU9F8DZWfndxC-1) 
 * ✉️  You can contact me at [nsnishant51@gmail.com](mailto:nsnishant51@gmail.com)
 * 🚀  I'm currently working on [Myself](http://https://github.com/nishantsing)
 * 🧠  I'm learning Next
